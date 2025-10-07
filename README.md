@@ -53,23 +53,29 @@ r2
 dt.predict([[5,6]])
 ```
 Output:
+
 Data Head:
+
 <img width="390" height="265" alt="318778934-b2f6f2eb-1e0c-4fbb-8784-4a8bd706c979" src="https://github.com/user-attachments/assets/37ddd4d6-eaad-4790-b6aa-d0159b1c0d84" />
 
 
 Data Info:
+
 <img width="603" height="237" alt="318779092-7c13b486-2ad5-4e1f-82f6-48d7f77e2649" src="https://github.com/user-attachments/assets/7f541cc2-6a5b-430a-a948-f3a26e70ffa1" />
 
 
 isnull() sum():
+
 <img width="201" height="88" alt="318779178-3a21fac0-df89-4aaf-827f-bc00aa3f0286" src="https://github.com/user-attachments/assets/265bf91a-7c3a-4075-9e55-64feaf11be24" />
 
 
 Data Head for salary:
+
 <img width="323" height="234" alt="318779270-0a79abfa-f32d-4394-a73d-47161eaeec30" src="https://github.com/user-attachments/assets/782da624-7a45-486c-9232-35779a1b4274" />
 
 
 Mean Squared Error :
+
 <img width="239" height="38" alt="318779364-3c7acf12-adb7-4a3f-807e-cb49ad260032" src="https://github.com/user-attachments/assets/a434bfc7-688e-4b02-abed-12e88e1dafbb" />
 
 
