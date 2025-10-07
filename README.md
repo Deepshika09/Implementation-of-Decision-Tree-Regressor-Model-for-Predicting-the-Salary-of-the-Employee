@@ -1,7 +1,9 @@
-AIM:
+# AIM:
+
 To write a program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 
-Equipments Required:
+# Equipments Required:
+
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Jupyter notebook
 Algorithm
@@ -9,7 +11,8 @@ Import the libraries and read the data frame using pandas.
 Calculate the null values present in the dataset and apply label encoder.
 Determine test and training data set and apply decison tree regression in dataset.
 Calculate Mean square error,data prediction and r2.
-Program:
+# Program:
+
 ```
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 Developed by: Deepshika Hemanth kumar
